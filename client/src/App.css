@@ -1,0 +1,79 @@
+/* App container */
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+/* Main heading */
+h1 {
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+/* Module boxes */
+.module {
+  background: #3498db;       /* nice blue background */
+  color: #fff;                /* white text */
+  padding: 20px 15px;         /* smaller padding for smaller box */
+  margin: 15px 0;
+  border-radius: 12px;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.2);
+  display: inline-block;      /* make width fit content */
+  min-width: 280px;           /* minimum width for smaller screens */
+  text-align: center;         /* center text inside box */
+}
+
+/* Module heading */
+.module h2 {
+  color: #ecf0f1;
+  margin-bottom: 15px;
+}
+
+/* Buttons */
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+  background: #2ecc71; /* green */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #27ae60;
+}
+
+/* Input field */
+input {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-right: 8px;
+  font-size: 13px;
+  width: 120px;
+}
+
+/* Paragraphs */
+p {
+  margin-top: 12px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+/* Error messages */
+.error {
+  color: #ff6b6b;
+}
+
+/* Quote styling */
+.quote {
+  font-style: italic;
+  color: #f1c40f;
+  font-weight: 500;
+}
