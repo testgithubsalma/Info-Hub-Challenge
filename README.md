@@ -15,4 +15,8 @@ A full-stack web application with three modules:
 - Frontend: HTML, CSS, JavaScript
 - APIs: OpenWeatherMap, ExchangeRate API, Quotes API
 
+- 🚀 Live Demo: [https://info-hub-challenge-flax.vercel.app/](https://info-hub-challenge-flax.vercel.app/)
+
+
+
 ## Folder Structure
